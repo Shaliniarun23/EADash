@@ -1,0 +1,37 @@
+# 🧠 Employee Attrition Dashboard
+
+An interactive dashboard built using **Streamlit** to analyze and visualize employee attrition patterns. Designed as a strategic insight tool for HR Directors and business stakeholders.
+
+---
+
+## 📁 Project Structure
+
+employee-attrition-dashboard/
+│
+├── app.py # Main Streamlit application
+├── EA.csv # Dataset containing employee attributes and attrition status
+├── requirements.txt # List of required Python libraries
+└── README.md # Project overview and instructions
+
+yaml
+Copy
+Edit
+
+---
+
+## 📌 Features
+
+- 📊 20+ interactive visualizations using Plotly, Seaborn, and Matplotlib
+- 🎛️ Filters (age, department), sliders, dropdowns, tabs
+- 📋 Explanation before each chart (2–3 lines)
+- 📈 Heatmaps, bar charts, boxplots, scatter plots, and more
+- ✅ A one-stop insight hub for HR strategy and workforce analysis
+
+---
+
+## 🚀 How to Run This Project Locally
+
+### Step 1: Clone the Repository
+```bash
+git clone https://github.com/your-username/employee-attrition-dashboard.git
+cd employee-attrition-dashboard
